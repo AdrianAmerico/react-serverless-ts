@@ -1,15 +1,15 @@
 {
-  "staging": {
+  "dev": {
     "awscloudformation": {
-      "AuthRoleName": "amplify-amplify-staging-203003-authRole",
-      "UnauthRoleArn": "arn:aws:iam::089487045988:role/amplify-amplify-staging-203003-unauthRole",
-      "AuthRoleArn": "arn:aws:iam::089487045988:role/amplify-amplify-staging-203003-authRole",
+      "AuthRoleName": "amplify-reactserverlessts-dev-100431-authRole",
+      "UnauthRoleArn": "arn:aws:iam::089487045988:role/amplify-reactserverlessts-dev-100431-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::089487045988:role/amplify-reactserverlessts-dev-100431-authRole",
       "Region": "us-east-1",
-      "DeploymentBucketName": "amplify-amplify-staging-203003-deployment",
-      "UnauthRoleName": "amplify-amplify-staging-203003-unauthRole",
-      "StackName": "amplify-amplify-staging-203003",
-      "StackId": "arn:aws:cloudformation:us-east-1:089487045988:stack/amplify-amplify-staging-203003/7b3b7230-4e5a-11ed-8810-123ad7162177",
-      "AmplifyAppId": "d3gxmcur7343ci"
+      "DeploymentBucketName": "amplify-reactserverlessts-dev-100431-deployment",
+      "UnauthRoleName": "amplify-reactserverlessts-dev-100431-unauthRole",
+      "StackName": "amplify-reactserverlessts-dev-100431",
+      "StackId": "arn:aws:cloudformation:us-east-1:089487045988:stack/amplify-reactserverlessts-dev-100431/6a7ae670-4ee5-11ed-a507-12ac8c2df705",
+      "AmplifyAppId": "d3rs7vny02iidl"
     }
   }
 }
